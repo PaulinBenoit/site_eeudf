@@ -1,0 +1,24 @@
+.hover_louveteau:hover{
+  background-color: #1565C0;
+}
+.hover_eclaireur:hover{
+  background-color: #2E7D32;
+}
+.hover_aine:hover{
+  background-color: #9E9E9E;
+}
+.hover_cadre:hover{
+  background-color: #D50000;
+}
+.louveteau{
+  background-color: #1565C0;
+}
+.eclaireur{
+  background-color: #2E7D32;
+}
+.aine{
+  background-color: #9E9E9E;
+}
+.cadre{
+  background-color: #D50000;
+}

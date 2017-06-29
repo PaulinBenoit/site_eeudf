@@ -1,0 +1,7 @@
+body{
+  background-image:url(../images/site_background.jpg);
+}
+
+.fixed{
+  position:fixed;
+}
